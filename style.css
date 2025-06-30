@@ -21,9 +21,7 @@ body {
 }
 
 .s {
-    cursor: pointer;
-    height: 10px;
-    width: 100px;
+    background-color: black;
 }
 
 .container {
